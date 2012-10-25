@@ -1,12 +1,13 @@
 dart-svn Subversion binding for dart.
 ========
 
-# Download
+# Downloading for users
 
+# API Documentation
 
-# Documentation
+# Documentation for developers
 
-## Prepare
+## Preparing under different OS
 
 ### Windows
 
@@ -24,8 +25,10 @@ Edit build.bat to point to the Dart SDK and the svn-dev folder.
 ### OS X and Linux
     $BLD = ./build.sh
 
-## Building the library
+## Installing the pub dependences
+    $BLD install
 
+## Building the library
     $BLD
 
 ## Generating the documentation
