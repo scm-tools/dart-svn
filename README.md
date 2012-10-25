@@ -25,7 +25,7 @@ Edit build.bat to point to the Dart SDK and the svn-dev folder.
     $BLD = ./build.sh
 
 ## Building the library
-
+    $BLD install
     $BLD
 
 ## Generating the documentation
