@@ -3,6 +3,7 @@ dart-svn Subversion binding for dart.
 
 # Downloading for users
 
+# API Documentation
 
 # Documentation for developers
 
