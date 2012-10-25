@@ -10,3 +10,12 @@
 *.lai
 *.la
 *.a
+
+*.dylib
+*.dll
+docs/
+*.obj
+*.exp
+*.lib
+packages
+*.lock

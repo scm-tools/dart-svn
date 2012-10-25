@@ -1,0 +1,5 @@
+name:  dart-svn
+description:  Dart binding for subversion.
+
+dependencies:
+  unittest: { sdk: unittest }
