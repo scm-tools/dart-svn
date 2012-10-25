@@ -1,12 +1,12 @@
 dart-svn Subversion binding for dart.
 ========
 
-# Download
+# Downloading for users
 
 
-# Documentation
+# Documentation for developers
 
-## Prepare
+## Preparing under different OS
 
 ### Windows
 
