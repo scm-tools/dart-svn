@@ -1,4 +1,4 @@
 dart-svn
 ========
 
-Subversion binding for svn.
+Subversion binding for dart.
